@@ -1,0 +1,18 @@
+H:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\7 YAZILANLAR\MB Klasör İşlemleri\MB YGS  LYS Puan Hesaplama Motoru\MB YGS  LYS Puan Hesaplama Motoru\bin\Debug\MB YGS  LYS Puan Hesaplama Motoru.exe
+H:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\7 YAZILANLAR\MB Klasör İşlemleri\MB YGS  LYS Puan Hesaplama Motoru\MB YGS  LYS Puan Hesaplama Motoru\bin\Debug\MB YGS  LYS Puan Hesaplama Motoru.pdb
+H:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\7 YAZILANLAR\MB Klasör İşlemleri\MB YGS  LYS Puan Hesaplama Motoru\MB YGS  LYS Puan Hesaplama Motoru\obj\x86\Debug\MB_YGS__LYS_Puan_Hesaplama_Motoru.Form1.resources
+H:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\7 YAZILANLAR\MB Klasör İşlemleri\MB YGS  LYS Puan Hesaplama Motoru\MB YGS  LYS Puan Hesaplama Motoru\obj\x86\Debug\MB_YGS__LYS_Puan_Hesaplama_Motoru.Properties.Resources.resources
+H:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\7 YAZILANLAR\MB Klasör İşlemleri\MB YGS  LYS Puan Hesaplama Motoru\MB YGS  LYS Puan Hesaplama Motoru\obj\x86\Debug\MB YGS  LYS Puan Hesaplama Motoru.csproj.GenerateResource.Cache
+H:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\7 YAZILANLAR\MB Klasör İşlemleri\MB YGS  LYS Puan Hesaplama Motoru\MB YGS  LYS Puan Hesaplama Motoru\obj\x86\Debug\MB YGS  LYS Puan Hesaplama Motoru.exe
+H:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\7 YAZILANLAR\MB Klasör İşlemleri\MB YGS  LYS Puan Hesaplama Motoru\MB YGS  LYS Puan Hesaplama Motoru\obj\x86\Debug\MB YGS  LYS Puan Hesaplama Motoru.pdb
+H:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\7 YAZILANLAR\MB Klasör İşlemleri\MB YGS  LYS Puan Hesaplama Motoru\MB YGS  LYS Puan Hesaplama Motoru\obj\x86\Debug\MB_YGS__LYS_Puan_Hesaplama_Motoru.LysHesapla.resources
+H:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\7 YAZILANLAR\MB Klasör İşlemleri\MB YGS  LYS Puan Hesaplama Motoru\MB YGS  LYS Puan Hesaplama Motoru\obj\x86\Debug\MB_YGS__LYS_Puan_Hesaplama_Motoru.YgsHesapla.resources
+E:\03 - Yazılım\05 - Büyük Projeler\35 YGS  LYS Puan Hesaplama Motoru\MB YGS  LYS Puan Hesaplama Motoru\obj\x86\Debug\MB YGS  LYS Puan Hesaplama Motoru.exe
+E:\03 - Yazılım\05 - Büyük Projeler\35 YGS  LYS Puan Hesaplama Motoru\MB YGS  LYS Puan Hesaplama Motoru\obj\x86\Debug\MB YGS  LYS Puan Hesaplama Motoru.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\35 YGS  LYS Puan Hesaplama Motoru\MB YGS  LYS Puan Hesaplama Motoru\bin\Debug\MB YGS  LYS Puan Hesaplama Motoru.exe
+E:\03 - Yazılım\05 - Büyük Projeler\35 YGS  LYS Puan Hesaplama Motoru\MB YGS  LYS Puan Hesaplama Motoru\bin\Debug\MB YGS  LYS Puan Hesaplama Motoru.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\35 YGS  LYS Puan Hesaplama Motoru\MB YGS  LYS Puan Hesaplama Motoru\obj\x86\Debug\MB_YGS__LYS_Puan_Hesaplama_Motoru.Form1.resources
+E:\03 - Yazılım\05 - Büyük Projeler\35 YGS  LYS Puan Hesaplama Motoru\MB YGS  LYS Puan Hesaplama Motoru\obj\x86\Debug\MB_YGS__LYS_Puan_Hesaplama_Motoru.LysHesapla.resources
+E:\03 - Yazılım\05 - Büyük Projeler\35 YGS  LYS Puan Hesaplama Motoru\MB YGS  LYS Puan Hesaplama Motoru\obj\x86\Debug\MB_YGS__LYS_Puan_Hesaplama_Motoru.Properties.Resources.resources
+E:\03 - Yazılım\05 - Büyük Projeler\35 YGS  LYS Puan Hesaplama Motoru\MB YGS  LYS Puan Hesaplama Motoru\obj\x86\Debug\MB_YGS__LYS_Puan_Hesaplama_Motoru.YgsHesapla.resources
+E:\03 - Yazılım\05 - Büyük Projeler\35 YGS  LYS Puan Hesaplama Motoru\MB YGS  LYS Puan Hesaplama Motoru\obj\x86\Debug\MB YGS  LYS Puan Hesaplama Motoru.csproj.GenerateResource.Cache
